@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justkato&label=Profile%20views&color=0e75b6&style=flat" alt="justkato" /> </p>
 
 - ☕ I’m currently working as a Lead Developer 24/7
-- ✍🏻 I am developing [FreePad](https://github.com/JustKato/FreePad)
 - 📷 In love with 35mm Film! [Check me out on Unsplash](https://unsplash.com/@justkato)
 - 🐧 Linux Enthusiast
 - 🖌 Digitally Painting
