@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hey, I'm Kato Twofold</h1>
+<h1 align="center">Hey, I'm Daniel Legt</h1>
 <h3 align="center">Full time programmer, part time Artsy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justkato&label=Profile%20views&color=0e75b6&style=flat" alt="justkato" /> </p>
